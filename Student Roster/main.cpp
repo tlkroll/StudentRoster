@@ -21,8 +21,8 @@ int main() {
 		classRoster.parse(studentData[i]);
 	}
 
-	cout << "Application created for course Scripting and Programming - Applications (C867)" << endl << endl << "Student: Thomas Kroll" << endl <<
-		"Student ID #: 011739583" << endl << "Programming Language: C++ 14 " << endl << endl;
+	cout << "Application created for C++ course" << endl << endl << "Student: Thomas Kroll" << endl <<
+		"Student ID #: 999999" << endl << "Programming Language: C++ 14 " << endl << endl;
 
 	cout << "All students in class roster:" << endl << endl;
 	classRoster.printAll();
